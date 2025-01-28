@@ -1,0 +1,8 @@
+The Data are saved in text files like this:
+1.0000,0.0000,1.0000
+2.0000,-0.0000,0.0033
+
+the first number indicates the label of the point (1.0000: spiral one, 2.0000:spiral 2 and so on, 
+we only care about the integer part here)
+
+the senod number indicates the x coordinate and the third number indicates the y coordinate of the point 
